@@ -1,2 +1,3 @@
-# android-studio-settings
-Settings for Android Studio
+# Android Studio Settings
+
+Currently based on Sublime Text
